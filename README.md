@@ -27,8 +27,9 @@ With a strong foundation in backend development, I love working with **Python**,
 
 ### 💬 **Let's Connect!**  
 Feel free to reach out to me for internships, collaboration opportunities, mentorship, or tech-related discussions. You can connect with me via:  
--[Email](mailto:olamoyegunayomide16@gmail.com)
+
 - [LinkedIn](https://www.linkedin.com/in/ayomide-olamoyegun/)
-- [Twitter](https://x.com/Olamoyegun_Ayo) 
+- [Twitter](https://x.com/Olamoyegun_Ayo)
+- [Email](mailto:olamoyegunayomide16@gmail.com)
 - [Portfolio](your-portfolio-link)  
 
