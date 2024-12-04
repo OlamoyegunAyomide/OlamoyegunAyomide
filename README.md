@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ayomide! 👋  
+💻 Backend Developer | AI Enthusiast | Lifelong Learner  
 
-<!--
-**OlamoyegunAyomide/OlamoyegunAyomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about creating impactful software that solves real-world problems. 
+With a strong foundation in backend development, I love working with **Python**, **Flask**, **SQLite**, and **MySQL** to build efficient and scalable solutions.  
 
-Here are some ideas to get you started:
+### 🌱 **What I'm Learning**  
+- Continuously improving my backend skills and exploring **Artificial Intelligence** to enhance software development.  
+- Diving into **machine learning algorithms** and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Tech Stack**  
+- **Languages**: Python, SQL  
+- **Frameworks**: Flask  
+- **Databases**: MySQL, SQLite  
+- **Tools**: Git, GitHub, Tableau  
+- **Other**: WordPress, HTML, CSS
+
+### 🔧 **Notable Projects**     
+- **[ReqGenius](https://reqgenius.netlify.app/)**: Developed an AI system that generates software requirements from natural language descriptions.
+- **[Quickread]()**: Created an app to aggregate and summarize news articles, helping users stay informed with minimal effort.
+- **[BridgeHub]**: A platform that connects volunteers with event organizers, streamlining the volunteer registration process.
+
+### 🏆 **Achievements & Recognition**  
+- **First-Class Honors** in Software Engineering from Babcock University (CGPA: 4.66) and **2nd best graduating student** in Software Engineering department.
+- **Winner of the Babcock Software Exhibition** for innovative design and community impact.
+- **Winner of the Technovate Pitch Competition**: My team and I won the prestigious Technovate pitch, showcasing our innovative solution and creativity.
+
+### 💬 **Let's Connect!**  
+Feel free to reach out to me for internships, collaboration opportunities, mentorship, or tech-related discussions. You can connect with me via:  
+- [LinkedIn](your-linkedin-link)  
+- [Portfolio](your-portfolio-link)  
+
