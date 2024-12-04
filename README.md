@@ -17,11 +17,11 @@ With a solid foundation in backend development, I love working with **Python**, 
 
 ### 🔧 **Notable Projects**     
 - **[ReqGenius](https://reqgenius.netlify.app/)**: Developed an AI system that generates software requirements from natural language descriptions.
-- **[Quickread]**: Created an app to aggregate and summarize news articles, helping users stay informed with minimal effort.
-- **[BridgeHub]**: A platform that connects volunteers with event organizers, thereby encouraging volunteerism .
+- **Quickread**: Created an app to aggregate and summarize news articles, helping users stay informed with minimal effort.
+- **BridgeHub**: A platform that connects volunteers with event organizers, thereby encouraging volunteerism .
 
 ### 🏆 **Achievements & Recognition**  
-- **First-Class Honors** in Software Engineering from Babcock University **(CGPA: 4.66)** and **2nd best graduating student** in Software Engineering department.
+- **First-Class Honors** in Software Engineering from Babcock University **(CGPA: 4.66/5.0)** and **2nd best graduating student** in Software Engineering department.
 - **Winner of the Babcock Software Exhibition** for innovative design and community impact.
 - **Winner of the Technovate Pitch Competition**: My team and I won the prestigious Technovate pitch, showcasing our innovative solution and creativity.
 
