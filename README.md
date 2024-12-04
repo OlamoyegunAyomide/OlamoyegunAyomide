@@ -31,5 +31,5 @@ Feel free to reach out to me for internships, collaboration opportunities, mento
 - [LinkedIn](https://www.linkedin.com/in/ayomide-olamoyegun/)
 - [Twitter](https://x.com/Olamoyegun_Ayo)
 - [Email](mailto:olamoyegunayomide16@gmail.com)
-- [Portfolio](your-portfolio-link)  
+- [Portfolio](https://ayomideolamoyegun.framer.website/)  
 
