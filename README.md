@@ -9,9 +9,9 @@ With a solid foundation in backend development, I love working with **Python**, 
 - Expanding my knowledge of **Artificial Intelligence** to build intelligent and scalable backend systems.  
 
 ### 🚀 **Tech Stack**  
-- **Languages**: Python, SQL  
-- **Frameworks**: Flask  
-- **Databases**: MySQL, SQLite  
+- **Languages**: Python, SQL, C#
+- **Frameworks**: Flask, .NET  
+- **Databases**: MySQL, SQLite, MSSQL 
 - **Tools**: Git, GitHub, Tableau  
 - **Other**: WordPress, HTML, CSS
 
