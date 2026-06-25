@@ -2,18 +2,21 @@
 💻 Backend Developer | AI developer | Lifelong Learner  
 
 Welcome to my GitHub profile! I'm passionate about creating impactful software that solves real-world problems. 
-With a solid foundation in backend development, I love working with **Python**, **Flask**, **SQLite**, and **MySQL** to build efficient and scalable solutions.  
+Backend Software Engineer with experience building and maintaining enterprise applications using **C#** and **Python**.
+Focused on developing scalable backend services, improving system security, and delivering reliable software solutions.
 
 ### 🌱 **What I'm Learning**  
 - Continuously improving my **backend development** skills, focusing on creating efficient, high-performance APIs and databases.
 - Expanding my knowledge of **Artificial Intelligence** to build intelligent and scalable backend systems.  
 
 ### 🚀 **Tech Stack**  
-- **Languages**: Python, SQL, C#
-- **Frameworks**: Flask, .NET  
-- **Databases**: MySQL, SQLite, MSSQL 
-- **Tools**: Git, GitHub, Tableau  
-- **Other**: WordPress, HTML, CSS
+- **Programming Languages**: C#, Python, C++  
+- **Frameworks & Technologies**: ASP.NET Core, Entity Framework Core, ASP.NET Core MVC, ASP.NET Web API, REST APIs, Flask
+- **Databases**: MySQL, SQLite, Microsoft SQL Server (MSSQL)
+- **Cloud & DevOps**: Docker 
+- **Tools**: Git, GitHub, Visual Studio, VS Code, Postman 
+- **AI & NLP**: OpenAI API, Gemini API, NLTK
+
 
 ### 🔧 **Notable Projects**     
 - **[ReqGenius](https://reqgenius.netlify.app/)**: Developed an AI system that generates software requirements from natural language descriptions.
